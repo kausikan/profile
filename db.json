@@ -1,1 +1,46 @@
-"json" 
+{
+  "positions": [
+    {
+      "date_effective": "2017-06-01",
+      "date_end": null,
+      "position_description": "Senior Engineer",
+      "class_name": "Senior Engineer",
+      "employment_type": "Permanent Full Time",
+      "contract_type": "Engineers",
+      "location": "Australia",
+      "division_name": "Structures",
+      "office_name": "Brisbane",
+      "keyProjects": [
+        {
+          "summary": "Queens Wharf",
+          "description": "....some description",
+          "date_start": "2016-06-01",
+          "date_end": "2017-08-30"
+        },
+        {
+          "summary": "380 Adelaide Street",
+          "description": "....some description",
+          "date_start": "2017-06-01",
+          "date_end": "2017-09-31"
+        }
+      ],
+      "accomplishments": [
+        {
+          "summary": "Lead preliminary design..",
+          "description": "...some description",
+          "date_start": null,
+          "date_end": null
+        },
+        {
+          "summary": "Runner up in national engineering..",
+          "description": "...some description",
+          "date_start": "2017-08-15",
+          "date_end": "2017-08-15"
+        }
+      ]
+
+    },{
+
+    }
+  ]
+}
